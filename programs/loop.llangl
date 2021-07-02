@@ -1,0 +1,5 @@
+VARN estimation <;
+CMP vitrine : estimation => cmped ;
+GT cmped : more ;
+LT cmped : less ;
+EQ cmped : end ;
